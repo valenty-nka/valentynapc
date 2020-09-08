@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=e2821c10ce6da730b857f3ebd3c0c3d0dd18bad0
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=valenty.nechyporenko@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google

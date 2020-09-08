@@ -1,0 +1,32 @@
+[Data Source]
+DisplayName=Мои задачи
+Enabled=true
+Parent=e2821c10ce6da730b857f3ebd3c0c3d0dd18bad0
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=valenty.nechyporenko@gmail.com
+CredentialName=
+IsExternal=false
+
+[Resource]
+Identity=gtasks::MDEwMzM1MzEzMzY0MDI5MjI3NjE6MDow
+
+[Alarms]
+IncludeMe=false
+LastNotified=
+
+[Task List]
+BackendName=gtasks
+Color=rgb(190,206,221)
+Selected=true
+
+[Offline]
+StaySynchronized=true
+
+[GNOME To Do]
+ApiVersion=1
